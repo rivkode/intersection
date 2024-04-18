@@ -1,14 +1,14 @@
 package controller;
 
-import intersection.domain.Point;
+import domain.Point;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import static intersection.view.OutputView.*;
-import static intersection.view.constant.StaticNotice.*;
+import static view.OutputView.*;
+import static view.constant.StaticNotice.*;
 
 /**
  * 용어정리

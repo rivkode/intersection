@@ -1,7 +1,7 @@
 package view;
 
-import intersection.domain.Point;
-import intersection.view.constant.StaticNotice;
+import domain.Point;
+import view.constant.StaticNotice;
 
 import java.util.List;
 

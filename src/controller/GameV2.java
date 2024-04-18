@@ -1,6 +1,7 @@
 package controller;
 
-import intersection.domain.Point;
+
+import domain.Point;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,8 +9,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import static intersection.view.OutputView.*;
-import static intersection.view.constant.StaticNotice.*;
+import static view.OutputView.*;
+import static view.constant.StaticNotice.*;
+
 
 public class GameV2 {
     private static final double THRESHOLD = 1;
